@@ -1,7 +1,5 @@
 # ConferenceDate
 
-2022/08/01 (AOE): EMNLP Demo Paper Deadline
-
 2022/08/08 (AOE): AAAI Abstract Deadline
 
 2022/08/15 (AOE): AAAI Full Paper Due
