@@ -28,7 +28,7 @@
 
 2023/04/04 (AOE): SIGIR full and short paper notification
 
-2023/04/06 - 2023/04/27 (AOE): author response and reviewer discussion
+2023/04/06 - 2023/04/27 (AOE): KDD author response and reviewer discussion
 
 2023/04/19 (AOE): IJCAI paper notification: April 19, 2023
 
